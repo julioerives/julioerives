@@ -1,6 +1,6 @@
 ﻿
 <h1 align="center">Hi 👋, I'm Julio erives</h1>
-<h3 align="center">I am a person who likes programming,the Cruz Azul and walking</h3>
+<h3 align="center">I am a person who likes programming and Cruz Azul</h3>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhrM29kYWU1OWNmOGFid3Vod2I5eGE1cmU3M241aHdnbnZhaXNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ibioynnrcNubiHZlcm/giphy.gif">
 
 - 📫 How to reach me **julioerives345@gmail.com**
